@@ -26,7 +26,7 @@ project "ImGui"
         cppdialect "C++17"
 
     filter "system:linux"
-        pic "On"
+        pic "on"
         systemversion "latest"
         cppdialect "C++17"
 
