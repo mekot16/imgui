@@ -1,6 +1,11 @@
 ## OSX artifacts
 .DS_Store
 
+# MEK: Binaries
+bin/
+bin-int/
+*.vcxproj
+
 ## Dear ImGui artifacts
 imgui.ini
 
